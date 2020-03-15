@@ -1,0 +1,10 @@
+adminUser:
+  password: local:cluster1/adminUser:password
+  username: admin
+enableDocker: false
+pipelineUser:
+  email: sergiofreire1978@gmail.com
+  token: local:cluster1/pipelineUser:token
+  username: botbitcoder
+prow:
+  hmacToken: local:cluster1/prow:hmacToken
