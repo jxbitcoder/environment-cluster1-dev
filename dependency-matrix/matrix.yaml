@@ -1,0 +1,7 @@
+dependencies:
+- host: github.com
+  owner: jxbitcoder
+  repo: jx-tutorial
+  url: https://github.com/jxbitcoder/jx-tutorial.git
+  version: ""
+  versionURL: ""
