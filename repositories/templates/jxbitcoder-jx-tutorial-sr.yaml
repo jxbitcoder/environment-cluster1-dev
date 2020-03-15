@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: jxbitcoder
+    provider: github
+    repository: jx-tutorial
+  name: jxbitcoder-jx-tutorial
+spec:
+  description: Imported application for jxbitcoder/jx-tutorial
+  httpCloneURL: https://github.com/jxbitcoder/jx-tutorial.git
+  org: jxbitcoder
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: jx-tutorial
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/jxbitcoder/jx-tutorial.git
